@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.zlqhe.xyz.Main
+Class-Path: jmf.jar
+
